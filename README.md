@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **machine learning**
 
-- 📫 How to reach me **adarshjsr2001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SxvtboX8EGEx2iWAIGPrVWWUipXZNror/view?usp=sharing](https://drive.google.com/file/d/1SxvtboX8EGEx2iWAIGPrVWWUipXZNror/view?usp=sharing)
+- 📫 How to reach me **2001adarshjsr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
